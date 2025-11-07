@@ -1,0 +1,2 @@
+# emcoin-assets
+EMCOIN
